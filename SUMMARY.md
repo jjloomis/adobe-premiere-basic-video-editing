@@ -12,7 +12,7 @@
 * [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
 
 ## Importing and logging clips
-* Importing media files
+* [Importing media files](importing-media-files.md)
 * [Previewing media files in the Source monitor](previewing-media-in-the-source-monitor.md)
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Adding In and Out points to clips](adding-in-and-out-points-to-clips.md)
