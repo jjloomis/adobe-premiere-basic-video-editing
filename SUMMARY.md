@@ -34,3 +34,11 @@
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
 * Adjusting the audio level of a clip
 
+## Adding transitions and titles
+* Adding a cross disolve
+* Adding a dip to black transition
+* Adding titles
+
+## Exporting an MOV
+* Exporting an MOV
+
