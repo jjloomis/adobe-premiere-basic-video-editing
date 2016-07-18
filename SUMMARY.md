@@ -24,8 +24,9 @@
 * Arranging clips in your sequence
 * Deleting clips in your sequence
 * [Zooming in and out](zooming-in-and-out.md)
-* Splitting a clip
-* [Creating an overlay edit](creating-an-overlay-edit.md)
-* [Trimming a clip](trimming-a-clip.md)
 * [Muting scrub timeline audio](muting-audio-scrubbing.md)
+* [Trimming a clip](trimming-a-clip.md)
+* [Creating an overlay edit](creating-an-overlay-edit.md)
+* Splitting a clip
+* Separating audio and video of a clip
 
