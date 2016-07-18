@@ -19,3 +19,5 @@
 * [Viewing your project in the Program Monitor](viewing-your-project-in-the-program-monitor.md)
 * [Adding clips to the timeline](adding-clips-to-the-timeline.md)
 
+## Editing in the Timeline panel
+
