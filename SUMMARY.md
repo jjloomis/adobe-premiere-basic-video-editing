@@ -12,7 +12,7 @@
 
 ## Importing and logging clips
 * Importing media files
-* [Previewing media in the Source monitor](previewing-media-in-the-source-monitor.md)
+* [Previewing media files in the Source monitor](previewing-media-in-the-source-monitor.md)
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Adding In and Out points to clips](adding-in-and-out-points-to-clips.md)
 * [Creating a sequence](creating-a-sequence.md)
@@ -22,10 +22,10 @@
 
 ## Editing in the Timeline panel
 * Arranging clips in your sequence
+* Deleting clips in your sequence
+* [Zooming in and out](zooming-in-and-out.md)
 * Splitting a clip
 * [Creating an overlay edit](creating-an-overlay-edit.md)
-* Deleting clips in your sequence
-* Trimming a clip
-* Muting audio scrubbing
-* [Zooming in and out](zooming-in-and-out.md)
+* [Trimming a clip](trimming-a-clip.md)
+* [Muting scrub timeline audio](muting-audio-scrubbing.md)
 
