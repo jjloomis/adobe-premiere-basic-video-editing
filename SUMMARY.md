@@ -27,6 +27,9 @@
 * [Muting scrub timeline audio](muting-audio-scrubbing.md)
 * [Trimming a clip](trimming-a-clip.md)
 * [Creating an overlay edit](creating-an-overlay-edit.md)
-* Splitting a clip
-* Separating audio and video of a clip
+* [Splitting a clip](splitting-a-clip.md)
+* [Separating audio and video of a clip](separating-audio-and-video-of-a-clip.md)
+
+## Working with audio
+* [Using mute and solo controls](using-mute-and-solo-controls.md)
 
