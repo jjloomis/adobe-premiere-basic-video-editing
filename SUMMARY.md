@@ -4,9 +4,10 @@
 
 ## Setting up your project
 * [Creating a project folder](creating-a-project-folder.md)
-* [Adding video files from a digital video camera](adding-media-from-a-video-camera.md)
-* [Adding media files from an iOS device](adding-media-from-an-ios-device.md)
-* [Adding WAV files from a Zoom](adding-wav-files-from-a-zoom.md)
+* [Adding video files from a digital video camera to your project folder](adding-media-from-a-video-camera.md)
+* [Adding media files from an iOS device to your project folder](adding-media-from-an-ios-device.md)
+* [Adding WAV files from a Zoom to your project folder](adding-wav-files-from-a-zoom.md)
+* Opening Premiere
 * [Creating a Premiere project file](creating-a-premiere-project-file.md)
 * [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
 
