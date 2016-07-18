@@ -32,4 +32,5 @@
 
 ## Working with audio
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
+* Adjusting the audio level of a clip
 
