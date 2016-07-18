@@ -1,6 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
+* Arranging clips in your sequence
+* Splitting a clip
+* [Creating an overlay edit](creating-an-overlay-edit.md)
+* Deleting clips in your sequence
+* Trimming a clip
+* Muting audio scrubbing
+* Zooming in and out
 
 ## Setting up your project
 * [Adding media from an iOS device](adding-media-from-an-ios-device.md)
