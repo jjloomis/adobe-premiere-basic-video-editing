@@ -1,13 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Arranging clips in your sequence
-* Splitting a clip
-* [Creating an overlay edit](creating-an-overlay-edit.md)
-* Deleting clips in your sequence
-* Trimming a clip
-* Muting audio scrubbing
-* Zooming in and out
 
 ## Setting up your project
 * [Adding media from an iOS device](adding-media-from-an-ios-device.md)
@@ -27,4 +20,11 @@
 * [Adding clips to the timeline](adding-clips-to-the-timeline.md)
 
 ## Editing in the Timeline panel
+* Arranging clips in your sequence
+* Splitting a clip
+* [Creating an overlay edit](creating-an-overlay-edit.md)
+* Deleting clips in your sequence
+* Trimming a clip
+* Muting audio scrubbing
+* [Zooming in and out](zooming-in-and-out.md)
 
