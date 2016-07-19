@@ -22,7 +22,7 @@
 * [Saving your project](saving-your-project.md)
 
 ## Editing in the Timeline panel
-* Arranging clips in your sequence
+* [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
 * Deleting clips in your sequence
 * [Zooming in and out](zooming-in-and-out.md)
 * [Muting scrub timeline audio](muting-audio-scrubbing.md)
