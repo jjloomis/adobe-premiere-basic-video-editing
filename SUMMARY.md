@@ -23,7 +23,7 @@
 
 ## Editing in the Timeline panel
 * [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
-* Deleting clips in your sequence
+* [Deleting clips in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Muting scrub timeline audio](muting-audio-scrubbing.md)
 * [Trimming a clip](trimming-a-clip.md)
