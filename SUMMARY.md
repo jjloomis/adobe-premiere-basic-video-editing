@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 
 ## Setting up your project
+* [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Adding video files from a digital video camera to your project folder](adding-media-from-a-video-camera.md)
 * [Adding media files from an iOS device to your project folder](adding-media-from-an-ios-device.md)
