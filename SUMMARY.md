@@ -36,7 +36,7 @@
 * [Adjusting the audio level of a clip](adjusting-the-audio-level-of-a-clip.md)
 
 ## Adding transitions and titles
-* Adding a cross disolve
+* [Adding a cross disolve](adding-a-cross-disolve.md)
 * Adding a dip to black transition
 * Adding titles
 
