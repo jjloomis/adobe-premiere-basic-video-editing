@@ -37,7 +37,7 @@
 
 ## Adding transitions and titles
 * [Adding a cross disolve](adding-a-cross-disolve.md)
-* Adding a dip to black transition
+* [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * Adding titles
 
 ## Exporting an MOV
