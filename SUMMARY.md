@@ -33,7 +33,7 @@
 
 ## Working with audio
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
-* Adjusting the audio level of a clip
+* [Adjusting the audio level of a clip](adjusting-the-audio-level-of-a-clip.md)
 
 ## Adding transitions and titles
 * Adding a cross disolve
