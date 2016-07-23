@@ -41,5 +41,5 @@
 * [Adding titles](adding-titles.md)
 
 ## Exporting an MOV
-* Exporting an MOV
+* [Exporting an MOV](exporting-an-mov.md)
 
