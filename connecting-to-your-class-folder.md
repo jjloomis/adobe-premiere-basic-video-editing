@@ -1,6 +1,5 @@
 # Connecting to your class folder
 
-1. If you're working in a JAMS Lab, connect to your class folder using this approach.
-2. If you're working in CCL, connect to your class folder using this approach.
- 
+* To connect to your class folder in JAMS Lab, see Connecting to Your Class Folder in a JAMS Lab.
+* To connect to your class folder in a CCL, see Connecting to Your Class Folder in a CCL.
 
