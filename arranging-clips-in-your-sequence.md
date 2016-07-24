@@ -7,5 +7,5 @@ Although video from the top video track displays in the Program window, audio of
 1. Click within the Timeline panel to select it.
 2. Choose the Selection Tool \(black arrow\) in the Tool panel.
 3. Click and drag clips in your sequence to change the order in which they appear. 
-4. A clip will snap to the clip closest to it. To turn snapping on or off, click the Snap Tool \(or press S on your keyboard.\)
+4. By default, a clip will snap to the clip closest to it. To turn snapping on or off, click the Snap Tool \(or press S on your keyboard.\)
 
