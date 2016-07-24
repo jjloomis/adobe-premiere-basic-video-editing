@@ -2,9 +2,7 @@
 
 When arranging your clips in your Sequence, the top video track plays in the Program monitor. The top clip will always be the clip that displays in your finished product video as well.
 
-A sequence has multiple video and audio tracks. You can use these tracks to control
-
-Although video from the topmost video item displays in the Program window, it is not necessarily the audio of this video clip that gets factored into the finished product. Audio from a different source \(an audio file, a different video clip, etc.\) can play under the footage playing in the topmost video track.
+Although video from the top video track displays in the Program window, audio of this video clip that gets factored into the finished product. Audio from a different source \(an audio file, a different video clip, etc.\) can play under the footage playing in the topmost video track.
 
 1. Click within the Timeline panel to select it.
 2. Choose the Selection Tool \(black arrow\) in the Tool panel.
