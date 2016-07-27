@@ -6,5 +6,3 @@
 4. Position the video of the overlay clip above the video of another clip in the Timeline. The video of the overlay clip will play in the Program window while the audio of clip beneath it plays as well.
 
 
-The video 
-
