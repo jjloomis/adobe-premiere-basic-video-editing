@@ -1,6 +1,6 @@
 # Copying WAV files from a Zoom H2n to your project folder
 
-1. Connect to your class folder using JAMS Lab or Campus Computer Lab Mac.
+1. Connect to your class folder using a JAMS Lab or Campus Computer Lab Mac.
 2. Make sure Zoom H2n is off. \(Important: Zoom H2n must be off in order for this process to work.\)
 3. Connect the Zoom to a Mac using the USB cable. The Zoom H2n will power up \(even though it’s not turned on.\)
 4. On the Zoom H2n, use the Play wheel to select SD Card Reader.

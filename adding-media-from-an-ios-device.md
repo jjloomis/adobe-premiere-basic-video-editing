@@ -1,6 +1,6 @@
 # Copying media files from an iOS device to your project folder
 
-1. Connect to your class folder using JAMS Lab or CCL Mac.
+1. Connect to your class folder using a JAMS Lab or CCL Mac.
 2. Using the iOS Device cable, connect the iOS Device to the back of the Mac.
 3. If you use a passcode to protect your iOS Device, you will need to enter it on the device.
 4. On your iOS Device, you will be prompted with a Trust This Computer? dialog box. Tap Trust.

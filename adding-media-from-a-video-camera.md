@@ -1,6 +1,6 @@
 # Copying video files from a Canon video camera to your project folder
 
-1. Connect to your class folder using JAMS Lab or Campus Computer Lab Mac.
+1. Connect to your class folder using a JAMS Lab or Campus Computer Lab Mac.
 2. Connect the video camera to the Mac using the USB cable. (The USB miniport on the camera is under flap under hand flap.)
 3. Turn the video camera on.
 4. On video camera, open side panel.
