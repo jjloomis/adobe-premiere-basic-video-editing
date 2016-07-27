@@ -1,5 +1,6 @@
 # Connecting to your class folder
 
-* To connect to your class folder in JAMS Lab, see File and Folder Management: Connecting to Your Class Folder in a JAMS Lab.
-* To connect to your class folder in a CCL, see File and Folder Management: Connecting to Your Class Folder in a CCL.
+Your Premiere project and all of the media files associted with it will live in your class folder. 
+
+* Connect to your class folder using a JAMS Lab or CCL Mac. 
 
