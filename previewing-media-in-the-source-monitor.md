@@ -1,4 +1,4 @@
-# Previewing media files in the Source monitor
+# Previewing clips in the Source monitor
 
 The Source monitor allows you to preview the media files.
 
