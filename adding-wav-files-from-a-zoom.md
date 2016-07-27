@@ -1,4 +1,4 @@
-# Copying WAV files from a Zoom to your project folder
+# Copying WAV files from a Zoom H2n to your project folder
 
 1. Connect to your class folder using JAMS Lab or Campus Computer Lab Mac.
 2. Make sure Zoom H2n is off. \(Important: Zoom H2n must be off in order for this process to work.\)
