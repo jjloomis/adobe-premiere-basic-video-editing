@@ -1,6 +1,6 @@
 # Importing media files
 
-Before you can edit your media files, you’ll need to Import them into your project.
+Before you can edit your media files, you’ll need to Import them into your Premiere project.
 
 1. If you have not already done so, copy all of your media files into your project folder (see previous section, "Setting up your project.") If you don't copy your media files into your project folder, you will lose your media files and your Premiere project will not work.
 2. In your Premiere project, go to File on the menu bar and choose Import.
