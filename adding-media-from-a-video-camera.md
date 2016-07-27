@@ -13,7 +13,7 @@
 
 
 * To copy video files from a Canon XA10 to your project folder, see Copying Video Files from a Canon XA10 to Your Project Folder.
-* To copy video files from a Sony to your project folder, see Copying Video Files from a Sony to Your Project Folde
+* To copy video files from a Sony to your project folder, see Copying Video Files from a Sony to Your Project Folder.
 
-1. 
+
 
