@@ -5,7 +5,7 @@
 ## Setting up your project
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
-* [Copying video files from a digital video camera to your project folder](adding-media-from-a-video-camera.md)
+* [Copying video files from a Canon video camera to your project folder](adding-media-from-a-video-camera.md)
 * [Copying media files from an iOS device to your project folder](adding-media-from-an-ios-device.md)
 * [Copying WAV files from a Zoom to your project folder](adding-wav-files-from-a-zoom.md)
 * [Opening Premiere](opening-premiere.md)
