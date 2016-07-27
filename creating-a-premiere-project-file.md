@@ -8,5 +8,5 @@
 6. In the New Project dialog box, give your project a name. \(Follow JAMS naming conventions.\)
 7. When finished, click OK.
 
-Note: By default, Scratch Disc locations are set to live in the same location as the PRPROJ file. Scratch Disc locations should not be changed. 
+Note: By default, Scratch Disc locations are set to reside in the same location as the PRPROJ file. Scratch Disc locations should not be changed. 
 
