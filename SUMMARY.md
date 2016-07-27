@@ -7,7 +7,7 @@
 * [Creating a project folder](creating-a-project-folder.md)
 * [Copying media files from a Canon video camera to your project folder](adding-media-from-a-video-camera.md)
 * [Copying media files from an iOS device to your project folder](adding-media-from-an-ios-device.md)
-* Copying media files from YouTube to your project folder
+* [Copying media files from YouTube to your project folder](copying-media-files-from-youtube-to-your-project-folder.md)
 * [Copying WAV files from a Zoom H2n to your project folder](adding-wav-files-from-a-zoom.md)
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
