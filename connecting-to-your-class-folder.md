@@ -4,5 +4,5 @@ Your Premiere project and all of the media files associated with it will live in
 
 * Connect to your class folder using JAMS Lab or Campus Computer Lab Mac.
 
-Note: Connecting to your class folder in a JAMS Lab is recommended. Premiere is a resource-intensive program that may run slow on Campus Computer Lab Macs.
+Note: Connecting to your class folder in a JAMS Lab is recommended. Premiere is a resource-intensive program that may run slower on Campus Computer Lab Macs.
 
