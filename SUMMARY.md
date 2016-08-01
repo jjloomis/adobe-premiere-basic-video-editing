@@ -12,6 +12,7 @@
 * [Copying WAV files from a Zoom H2n to your project folder](adding-wav-files-from-a-zoom.md)
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
+* [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
 
 ## Importing and logging clips
 * [Importing media files](importing-media-files.md)
