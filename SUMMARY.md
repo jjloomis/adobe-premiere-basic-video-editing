@@ -33,10 +33,12 @@
 * [Creating an overlay edit](creating-an-overlay-edit.md)
 * [Splitting a clip](splitting-a-clip.md)
 * [Separating audio and video of a clip](separating-audio-and-video-of-a-clip.md)
+* Using Undo and the History panel
 
 ## Working with audio
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
 * [Adjusting the audio level of a clip](adjusting-the-audio-level-of-a-clip.md)
+* Adjusting audio level of all clips in a track
 
 ## Adding transitions and titles
 * [Adding a cross disolve](adding-a-cross-disolve.md)
