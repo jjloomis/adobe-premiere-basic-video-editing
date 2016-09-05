@@ -1,7 +1,8 @@
 # Copying media files from a still camera to your project folder
 
 1. Connect to your class folder using a JAMS Lab or CCL Mac.
-2. Using the iOS Device cable, connect the iOS Device to the back of the Mac.
+2. Eject the SD card from your still camera. (Consult your owner's manual or Google if you're unfamilar with this procedure.)
+3. Plug the SD card into the back of the Mac. 
 3. If you use a passcode to protect your iOS Device, you will need to enter it on the device.
 4. On your iOS Device, you will be prompted with a Trust This Computer? dialog box. Tap Trust.
 5. On the Mac, iPhoto will open. Do not use iPhoto to manage your media files. Close iPhoto.
