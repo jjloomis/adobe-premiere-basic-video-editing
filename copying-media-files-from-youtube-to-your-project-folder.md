@@ -1,6 +1,6 @@
 # Copying media files from YouTube to your project folder
 
-0. C
+0. Connect to your class folder using a JAMS Lab or CCL Mac.
 1. In YouTube, open the video you want to add to your project. Copy the URL.
 2. Go to [Offliberty.com](http://offliberty.com/). Paste the URL in the field. 
 3. Click the `Off` button. 
