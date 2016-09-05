@@ -1,6 +1,6 @@
 # Copying video files from a Canon video camera to your project folder
 
-Before importing media files into Premiere, you'll need copy the files into your project folder. 
+Before importing media files into Premiere, you'll need copy these files into your project folder. 
 
 1. Connect to your class folder using a JAMS Lab or Campus Computer Lab Mac.
 2. Connect the video camera to the Mac using the USB cable. (The USB miniport on the camera is under flap under hand flap.)
