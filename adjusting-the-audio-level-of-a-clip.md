@@ -1,4 +1,4 @@
-# Adjusting audio level of a clip
+# Adjusting the audio level of an individual clip
 
 1. In the Timeline, select the clip you would like to adjust.
 2. Go to `Window` on the menu bar and select `Audio Clip Mixer`.
