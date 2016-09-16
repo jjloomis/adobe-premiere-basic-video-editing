@@ -8,7 +8,7 @@
 6. On the Mac, click the Desktop to enter Finder mode. In the menu bar, click `Go` and select `Applications`.
 7. In Applications, open Image Capture.
 8. Open a Finder window and navigate to your project folder.
-9. In Image Capture, select the media files you want to copy into your project folder. Press and hold the `Command` key to select multiple media files.
+9. In Image Capture, select your iPad/ iPhone under Devices (on left). Then select the media files you'd like to copy into your project folder. Press and hold the `Command` key to select multiple media files.
 10. Click and drag the media files into your project folder.
 
 
