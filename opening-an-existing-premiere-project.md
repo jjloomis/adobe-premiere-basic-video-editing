@@ -1,6 +1,6 @@
 # Opening an existing Premiere project
 
-Premiere does 
+Premiere runs
 
 1. Connect to your class folder using a JAMS Lab or Campus Computer Lab Mac.
 2. Open Premiere.
