@@ -39,7 +39,6 @@
 ## Working with audio
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
 * [Adjusting the audio level of an individual clip](adjusting-the-audio-level-of-a-clip.md)
-* [Adjusting audio level of all clips in a track](adjusting-audio-level-of-all-clips-in-a-track.md)
 * [Centering audio channels](centering-audio-channels.md)
 
 ## Adding transitions and titles
