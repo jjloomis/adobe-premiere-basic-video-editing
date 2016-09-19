@@ -22,7 +22,9 @@
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Creating a sequence](creating-a-sequence.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
-* [Adding clips your sequence](adding-clips-to-the-timeline.md)
+* [Adding a clip to your sequence](adding-clips-to-the-timeline.md)
+* [Creating a subclip](creating-subclips.md)
+* [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
 * [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
 * [Saving your project](saving-your-project.md)
 
@@ -44,7 +46,8 @@
 ## Adding transitions and titles
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
-* [Adding titles](adding-titles.md)
+* [Creating a title](adding-titles.md)
+* [Duplicating a title](duplicating-and-modifying-a-title.md)
 
 ## Exporting an MOV
 * [Exporting an MOV](exporting-an-mov.md)
