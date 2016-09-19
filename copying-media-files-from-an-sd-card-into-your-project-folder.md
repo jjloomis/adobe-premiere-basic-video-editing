@@ -4,8 +4,9 @@
 2. Eject the SD card from your camera. \(Consult your owner's manual or Google if you're unfamilar with this process.\)
 3. Insert the SD card into the back of the Mac.
 4. On the Mac, iPhoto will automatically open. Close iPhoto.
-5. The SD will appear on the Desktop (on right). Double-click the SD card to open it in a Finder window.
-6. In the SD card Finder window, you should see AVCHD. AVCHD is a folder that contains all of your media files. Click and drag AVCHD into your project folder. 
+5. The SD card will appear on the Desktop (on right). Double-click the SD card to open it in a Finder window.
+6. Open a second Finder window and navigate to your project folder.
+6. In the SD card's Finder window, you should see AVCHD. AVCHD is a folder that contains all of your media files. Click and drag AVCHD into your project folder. 
 7. Copy AVCHD from the SD card Finder window into your project folder.
 8. After AVCHD has copied into your project folder, eject the SD card and remove it from the back of the Mac.
 9. In your project folder, rename AVCHD. Follow file and folder naming conventions. \(Do not delete, rename or move any files or folders inside this directory.\)
