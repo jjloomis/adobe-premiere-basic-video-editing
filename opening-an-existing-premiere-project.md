@@ -1,6 +1,6 @@
 # Opening an existing Premiere project
 
-Connecting to your class folder and double-clicking your project's PRPROJ file will, unfortunatlely, not immediately open your project. The most effective way to open in a Premiere project is to use the `File` `Open Project` method \(outlined here\).
+Connecting to your class folder and double-clicking your project's PRPROJ file will not immediately open your project. The most effective way to open in a Premiere project is to use the `File` `Open Project` method \(outlined here\).
 
 1. Connect to your class folder using a JAMS Lab or CCL Mac.
 2. Open Premiere.
