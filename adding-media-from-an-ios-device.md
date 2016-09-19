@@ -1,4 +1,4 @@
-# Copying media files from an iPad\/ iPhone to your project folder
+# Copying media files from an iPad\/ iPhone into your project folder
 
 1. Connect to your class folder using JAMS Lab or CCL Mac.
 2. Using the iPad\/ iPhone USB cable, connect your iPad\/ iPhone to the back of the Mac.
@@ -8,8 +8,6 @@
 6. On the Mac, click the Desktop to enter Finder mode. In the menu bar, click `Go` and select `Applications`.
 7. In Applications, open Image Capture.
 8. Open a Finder window and navigate to your project folder.
-9. In Image Capture, select your iPad/ iPhone under Devices (on left). Then select the media files you'd like to copy into your project folder. Press and hold the `Command` key to select multiple media files.
+9. In Image Capture, select your iPad\/ iPhone under Devices \(on left\). Then select the media files you'd like to copy into your project folder. Press and hold the `Command` key to select multiple media files.
 10. Click and drag the media files into your project folder.
-
-
 

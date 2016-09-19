@@ -1,4 +1,4 @@
-# Copying video files from a Canon video camera to your project folder
+# Copying video files from a Canon video camera into your project folder
 
 Before importing media files into Premiere, you'll need copy these files into your project folder.
 

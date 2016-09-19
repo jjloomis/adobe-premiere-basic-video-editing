@@ -6,9 +6,3 @@
 4. In the Media Source Channel panel, select the correct channels to center your audio. See images below for correct settings.
 
 
-
-
-
-
-
-

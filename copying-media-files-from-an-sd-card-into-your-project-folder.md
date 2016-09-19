@@ -1,4 +1,2 @@
-# Copying media files from an SD card into your project folder
-
-
+# Copying media files from a video camera SD card into your project folder
 
