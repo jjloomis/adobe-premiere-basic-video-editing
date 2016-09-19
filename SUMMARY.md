@@ -35,7 +35,6 @@
 * [Creating an overlay edit](creating-an-overlay-edit.md)
 * [Splitting a clip](splitting-a-clip.md)
 * [Separating audio and video of a clip](separating-audio-and-video-of-a-clip.md)
-* [Using Undo and the History panel](using-undo-and-the-history-panel.md)
 
 ## Working with audio
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
