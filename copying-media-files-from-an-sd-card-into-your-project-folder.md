@@ -1,7 +1,7 @@
 # Copying media files from a video camera SD card into your project folder
 
 1. Connect to your class folder using a JAMS Lab or CCL Mac.
-2. Eject the SD card from your camera. \(Consult your owner's manual or Google if you're unfamilar with this process.\)
+2. Eject the SD card from your video camera. \(Consult your owner's manual or Google if you're unfamilar with this process.\)
 3. Insert the SD card into the back of the Mac.
 4. On the Mac, iPhoto will automatically open. Close iPhoto.
 5. The SD card will appear on the Desktop (on right). Double-click the SD card to open it in a Finder window.
