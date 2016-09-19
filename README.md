@@ -10,11 +10,11 @@ Written by JJ Loomis
 
 ## Other formats
 
-PDF, MOBI, and EPUB versions of this GitBook are availble for download here.
+PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-premiere-basic-video-editing/details).
 
 ## GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the GitHub repository.
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-premiere-basic-video-editing).
 
 ## License
 
