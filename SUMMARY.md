@@ -1,9 +1,11 @@
 # Summary
 
 ## Introduction
+
 * [Introduction](README.md)
 
 ## Setting up your project
+
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Copying media files from a Canon video camera into your project folder](adding-media-from-a-video-camera.md)
@@ -14,9 +16,9 @@
 * [Copying WAV files from a Zoom H2n to your project folder](adding-wav-files-from-a-zoom.md)
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
-* [Copying media files from an SD card into your project folder](copying-media-files-from-an-sd-card-into-your-project-folder.md)
 
 ## Importing and logging clips
+
 * [Importing media files](importing-media-files.md)
 * [Previewing clips in the Source monitor](previewing-media-in-the-source-monitor.md)
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
@@ -27,6 +29,7 @@
 * [Saving your project](saving-your-project.md)
 
 ## Editing in the Timeline panel
+
 * [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
 * [Deleting clips in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
@@ -38,16 +41,19 @@
 * [Using Undo and the History panel](using-undo-and-the-history-panel.md)
 
 ## Working with audio
+
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
 * [Adjusting the audio level of an individual clip](adjusting-the-audio-level-of-a-clip.md)
 * [Adjusting audio level of all clips in a track](adjusting-audio-level-of-all-clips-in-a-track.md)
 * [Centering audio channels](centering-audio-channels.md)
 
 ## Adding transitions and titles
+
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * [Adding titles](adding-titles.md)
 
 ## Exporting an MOV
+
 * [Exporting an MOV](exporting-an-mov.md)
 
