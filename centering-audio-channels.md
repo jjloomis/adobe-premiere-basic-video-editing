@@ -5,6 +5,4 @@
 3. In the Modify Clip dialog box, select the Audio Channels tab.
 4. In the Media Source Channel panel, select the correct channels to center your audio. See images below for correct settings.
 
-
-
-
+![](/assets/adobe-premiere-audio-left-only-fix.png)
