@@ -47,7 +47,7 @@
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * [Creating a title](adding-titles.md)
-* [Duplicating and modifying a title](duplicating-and-modifying-a-title.md)
+* [Duplicating a title](duplicating-and-modifying-a-title.md)
 
 ## Exporting an MOV
 * [Exporting an MOV](exporting-an-mov.md)
