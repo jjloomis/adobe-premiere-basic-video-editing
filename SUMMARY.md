@@ -22,7 +22,7 @@
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Creating a sequence](creating-a-sequence.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
-* [Adding clips your sequence](adding-clips-to-the-timeline.md)
+* [Adding clips your sequence from the Source monitor](adding-clips-to-the-timeline.md)
 * [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
 * [Saving your project](saving-your-project.md)
 * [Creating subclips](creating-subclips.md)
