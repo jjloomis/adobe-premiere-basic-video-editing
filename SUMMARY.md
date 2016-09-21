@@ -25,8 +25,8 @@
 * [Adding a clip to your sequence from the Source monitor](adding-clips-to-the-timeline.md)
 * [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
 * [Saving your project](saving-your-project.md)
-* [Creating subclips](creating-subclips.md)
-* Adding a subclip to your sequence
+* [Creating a subclip](creating-subclips.md)
+* [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
 
 ## Editing in the Timeline panel
 * [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)

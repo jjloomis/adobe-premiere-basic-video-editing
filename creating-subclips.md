@@ -1,4 +1,4 @@
-# Creating subclips
+# Creating a subclips
 
 1. Open a clip in the Source monitor. 
 2. Add In and Out points to the clip.
