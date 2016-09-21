@@ -23,10 +23,10 @@
 * [Creating a sequence](creating-a-sequence.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
 * [Adding a clip to your sequence](adding-clips-to-the-timeline.md)
-* [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
-* [Saving your project](saving-your-project.md)
 * [Creating a subclip](creating-subclips.md)
 * [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
+* [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
+* [Saving your project](saving-your-project.md)
 
 ## Editing in the Timeline panel
 * [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
