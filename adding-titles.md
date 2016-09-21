@@ -1,4 +1,4 @@
-# Adding titles
+# Creating a title
 
 1. On the menu bar, go to Title, New Title. From the fly-out menu, choose Default Still.
 2. A settings box will appear. Click OK.
