@@ -5,3 +5,4 @@
 3. To add an In point to your clip, position the playhead where you would like the In point to appear. Press `I` (on keyboard) to create the In point.
 4. To add an Out point to your clip, position the playhead where you would like the Out point to appear. Press `O` (on keyboard) to create the Out point.
 
+
