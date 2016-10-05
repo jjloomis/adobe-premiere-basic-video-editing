@@ -1,4 +1,4 @@
-# Exporting an MOV
+# Exporting an MP4
 
 You’ll export an MP4 file as your finished product. You can upload this MP4 file to YouTube or Vimeo.
 
