@@ -49,6 +49,6 @@
 * [Creating a title](adding-titles.md)
 * [Duplicating a title](duplicating-and-modifying-a-title.md)
 
-## Exporting an MOV
-* [Exporting an MOV](exporting-an-mov.md)
+## Exporting
+* [Exporting an MP4](exporting-an-mov.md)
 
