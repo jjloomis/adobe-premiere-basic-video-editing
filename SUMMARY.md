@@ -47,6 +47,7 @@
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * [Creating a title](adding-titles.md)
+* [Title style guide](title-style-guide.md)
 * [Duplicating a title](duplicating-and-modifying-a-title.md)
 
 ## Exporting
