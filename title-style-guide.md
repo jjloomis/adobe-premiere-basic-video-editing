@@ -6,8 +6,7 @@ When creating a title, follow this style guide. Use one text box in the title. P
 | --- | --- |
 | Font Family | Impact |
 | Stroke | Add an Outer Stroke |
-| Shadow | Select Shadow checkbox |
-
+| Shadow | Select the Shadow checkbox |
 
 ![Adding a title using the style guide settings.](/assets/style-guide.png)
 
