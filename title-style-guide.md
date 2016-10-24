@@ -8,7 +8,6 @@ When creating a title, follow this style guide. Use one text box in the title. P
 | Stroke | Add an Outer Stroke |
 | Shadow | Select Shadow checkbox |
 
-vuvyuvy
 
-![](/assets/style-guide.png)
+![Adding a title using the style guide settings.](/assets/style-guide.png)
 
