@@ -6,7 +6,7 @@ Adobe Premiere: Video Editing Basics for [Journalism, Advertising, and Media Stu
 
 ## Credits
 
-Written by JJ Loomis
+Written by Jeffrey John Loomis
 
 ## Other formats
 
