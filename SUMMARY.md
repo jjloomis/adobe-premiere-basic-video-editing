@@ -1,9 +1,11 @@
 # Summary
 
 ## Introduction
+
 * [Introduction](README.md)
 
 ## Setting up your project
+
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Copying media files from a Canon video camera into your project folder](adding-media-from-a-video-camera.md)
@@ -17,6 +19,7 @@
 * [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
 
 ## Importing and logging clips
+
 * [Importing media files](importing-media-files.md)
 * [Previewing clips in the Source monitor](previewing-media-in-the-source-monitor.md)
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
@@ -29,6 +32,7 @@
 * [Saving your project](saving-your-project.md)
 
 ## Editing in the Timeline panel
+
 * [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
 * [Deleting clips in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
@@ -39,11 +43,14 @@
 * [Separating audio and video of a clip](separating-audio-and-video-of-a-clip.md)
 
 ## Working with audio
+
 * [Using mute and solo controls](using-mute-and-solo-controls.md)
 * [Adjusting the audio level of an individual clip](adjusting-the-audio-level-of-a-clip.md)
 * [Centering audio channels](centering-audio-channels.md)
+* Adjusting audio level of all clips in a track
 
 ## Adding transitions and titles
+
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * [Creating a title](adding-titles.md)
@@ -51,5 +58,6 @@
 * [Duplicating a title](duplicating-and-modifying-a-title.md)
 
 ## Exporting
+
 * [Exporting an MP4](exporting-an-mov.md)
 
