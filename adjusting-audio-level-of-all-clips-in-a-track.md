@@ -1,4 +1,4 @@
-# Adjusting audio level of all clips in a track
+# Adjusting the audio level of all clips in a track
 
 1. Go to `Window` on the menu bar. Select `Audio Track Mixer`.
 2. Play your project in the Timeline. In the Audio Track Mixer, observe the levels of the audio tracks \(A1, A2, A3.\)
