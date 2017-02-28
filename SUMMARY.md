@@ -59,6 +59,6 @@
 
 ## Exporting
 
-* [Exporting a still image from your sequence](exporting-a-still-image.md)
+* [Exporting a still image](exporting-a-still-image.md)
 * [Exporting an MP4](exporting-an-mov.md)
 
