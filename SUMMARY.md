@@ -48,6 +48,7 @@
 * [Adjusting the audio level of an individual clip](adjusting-the-audio-level-of-a-clip.md)
 * [Adjusting the audio level of all clips in a track](adjusting-audio-level-of-all-clips-in-a-track.md)
 * [Centering audio channels](centering-audio-channels.md)
+* [Automating clip volume with keyframes](automating-clip-volume-with-keyframes.md)
 
 ## Adding transitions and titles
 
