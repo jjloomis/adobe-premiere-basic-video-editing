@@ -12,5 +12,5 @@ To automate the volume of an audio track, you can use the Pen Tool to add keyfra
 6. To delete a keyframe, select it using the Pen Tool \(the keyframe will appear blue.\) Press the Delete key on your keyboard.
 7. When finished, switch back to the Selection Tool in the Tools panel.
 
-
+![](/assets/audio-automation.png)
 
