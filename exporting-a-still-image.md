@@ -1,6 +1,6 @@
 # Exporting a still image from your sequence
 
-1. In Program panel, position the playhead on the frame you would like to use as a still image.
+1. In the Program panel, position the playhead on the frame you would like to use as a still image.
 2. Press the Export Frame button.
 3. In the Export Frame dialog box, click Browse. Navigate to and select your project folder. Click Choose.
 4. In the Format drop-down list, choose JPEG.
