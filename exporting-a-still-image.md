@@ -1,4 +1,4 @@
-# Exporting a still image from your sequence
+# Exporting a still image
 
 1. In the Program panel, position the playhead on the frame you would like to use as a still image.
 2. Press the Export Frame button.
