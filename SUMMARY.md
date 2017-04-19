@@ -57,6 +57,7 @@
 * [Creating a title](adding-titles.md)
 * [Title style guide](title-style-guide.md)
 * [Duplicating a title](duplicating-and-modifying-a-title.md)
+* [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
 
 ## Exporting
 
