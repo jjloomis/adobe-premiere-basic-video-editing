@@ -1,5 +1,9 @@
 # Creating a title
 
+When you create a title, it will appear in the Project panel (lower left.) Click and drag the title from the Project panel into your sequence. This process is similar to adding a image to your sequence.
+
+When creating a title, it's a good idea to clone the title multiple times (creating one title for every individual that will need a title.) 
+
 1. On the menu bar, go to Title, New Title. From the fly-out menu, choose Default Still.
 2. A settings box will appear. Click OK.
 3. A Title window will appear. You will use this box to create a title still \(similar to a transparent image\) that will appear in your Project window \(along with your video clips.\)
