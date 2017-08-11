@@ -10,3 +10,5 @@
 8. In Image Capture, select the media files you want to copy into your project folder. Pressing the `Command` key \(on the keyboard\) will allow you to select multiple media files.
 9. Click and drag the selected media files into your project folder.
 
+
+
