@@ -70,3 +70,5 @@
 * [A Panel is Missing or Looks Different](troubleshooting/a-panel-is-missing-or-looks-different.md)
 * [One Panel is Super Large and It's the Only Thing You See in Premiere](troubleshooting/one-panel-is-super-large-and-its-the-only-thing-you-see-in-premiere.md)
 
+## Glossary
+
