@@ -72,3 +72,5 @@
 
 ## Glossary
 
+* [Glossary](GLOSSARY.md)
+
