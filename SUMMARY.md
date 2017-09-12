@@ -52,15 +52,15 @@
 
 ## Adding text and transitions
 
+* [Opening a JAMS text template](opening-a-jams-text-template.md)
+* [Adding a JAMS text template to your sequence](adding-a-jams-text-template-to-your-sequence.md)
+* [Working with text using a JAMS text template](working-with-text-using-a-jams-text-template.md)
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
-* [Working with text using a JAMS text template](working-with-text-using-a-jams-text-template.md)
 * [Creating a title](adding-titles.md)
 * [Title style guide](title-style-guide.md)
 * [Duplicating a title](duplicating-and-modifying-a-title.md)
 * [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
-* [Opening a JAMS text template](opening-a-jams-text-template.md)
-* [Adding a JAMS text template to your sequence](adding-a-jams-text-template-to-your-sequence.md)
 
 ## Exporting
 
