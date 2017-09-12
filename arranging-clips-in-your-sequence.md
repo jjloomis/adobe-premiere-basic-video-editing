@@ -1,4 +1,4 @@
-# Arranging clips in your sequence
+# Arranging items in your sequence
 
 1. Click within the Timeline panel to select it.
 2. In the Tool panel, choose the Selection Tool \(black arrow\).

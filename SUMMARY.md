@@ -35,7 +35,7 @@
 * [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
 * [Adding an image to your sequence](adding-an-image-to-your-sequence.md)
 * [Adding an audio file to your sequence](adding-an-audio-file-to-your-sequence.md)
-* [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
+* [Arranging items in your sequence](arranging-clips-in-your-sequence.md)
 * [Deleting clips in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Muting timeline audio scrubbing](muting-audio-scrubbing.md)
