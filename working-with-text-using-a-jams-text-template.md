@@ -1,5 +1,3 @@
-
-
 # Working with text using a JAMS Text Template
 
 ## JAMS Social Media Video Text Template (JAMS 204)

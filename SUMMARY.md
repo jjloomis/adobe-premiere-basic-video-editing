@@ -50,7 +50,7 @@
 * [Adjusting the audio level of all clips in a track](adjusting-audio-level-of-all-clips-in-a-track.md)
 * [Automating clip volume with keyframes](automating-clip-volume-with-keyframes.md)
 
-## Adding transitions and titles
+## Adding text and transitions
 
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
@@ -59,6 +59,7 @@
 * [Title style guide](title-style-guide.md)
 * [Duplicating a title](duplicating-and-modifying-a-title.md)
 * [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
+* [Opening a JAMS text template](opening-a-jams-text-template.md)
 
 ## Exporting
 
