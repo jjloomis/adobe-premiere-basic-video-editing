@@ -60,6 +60,7 @@
 * [Duplicating a title](duplicating-and-modifying-a-title.md)
 * [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
 * [Opening a JAMS text template](opening-a-jams-text-template.md)
+* [Adding a JAMS text template to your sequence](adding-a-jams-text-template-to-your-sequence.md)
 
 ## Exporting
 
