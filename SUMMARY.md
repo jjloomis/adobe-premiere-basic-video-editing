@@ -33,13 +33,14 @@
 
 * [Adding a clip to your sequence](adding-clips-to-the-timeline.md)
 * [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
-* [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
 * [Adding an image to your sequence](adding-an-image-to-your-sequence.md)
+* [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
 * [Deleting clips in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Muting timeline audio scrubbing](muting-audio-scrubbing.md)
 * [Trimming a clip](trimming-a-clip.md)
 * [Creating an overlay edit](creating-an-overlay-edit.md)
+* [Adding an audio file to your sequence](adding-an-audio-file-to-your-sequence.md)
 
 ## Working with audio
 
