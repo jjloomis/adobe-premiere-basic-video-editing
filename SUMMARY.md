@@ -25,23 +25,21 @@
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Creating a sequence](creating-a-sequence.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
-* [Adding a clip to your sequence](adding-clips-to-the-timeline.md)
 * [Creating a subclip](creating-subclips.md)
-* [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
 * [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
 * [Saving your project](saving-your-project.md)
 
 ## Editing in the Timeline panel
 
+* [Adding a clip to your sequence](adding-clips-to-the-timeline.md)
+* [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
 * [Arranging clips in your sequence](arranging-clips-in-your-sequence.md)
+* [Adding an image to your sequence](adding-an-image-to-your-sequence.md)
 * [Deleting clips in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Muting timeline audio scrubbing](muting-audio-scrubbing.md)
 * [Trimming a clip](trimming-a-clip.md)
 * [Creating an overlay edit](creating-an-overlay-edit.md)
-* [Splitting a clip](splitting-a-clip.md)
-* [Separating audio and video of a clip](separating-audio-and-video-of-a-clip.md)
-* [Adding an image to your sequence](adding-an-image-to-your-sequence.md)
 
 ## Working with audio
 
