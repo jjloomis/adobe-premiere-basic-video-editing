@@ -41,6 +41,7 @@
 * [Creating an overlay edit](creating-an-overlay-edit.md)
 * [Splitting a clip](splitting-a-clip.md)
 * [Separating audio and video of a clip](separating-audio-and-video-of-a-clip.md)
+* [Adding an image to your sequence](adding-an-image-to-your-sequence.md)
 
 ## Working with audio
 
