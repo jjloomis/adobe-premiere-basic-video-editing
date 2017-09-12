@@ -2,7 +2,7 @@
 
 # Working with text using a JAMS Text Template
 
-## JAMS News Reporting Text Template (JAMS 342)
+## JAMS Social Media Video Text Template (JAMS 204)
 
 ### Editing text
 
@@ -22,7 +22,7 @@
 5. In the Essential Graphics panel, click the **Edit** tab.
 6. To make changes to the formatting of the text, select the Type layer \(top.\) To make changes to the gray box, select the Gray Box layer \(top.\)
 
-## JAMS Social Media Video Text Template (JAMS 204)
+## JAMS News Reporting Text Template (JAMS 342)
 
 ### Editing text
 
