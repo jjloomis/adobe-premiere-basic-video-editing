@@ -17,29 +17,29 @@
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
 * [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
+* [Saving your project](saving-your-project.md)
 
 ## Importing and logging clips
 
-* [Importing media files](importing-media-files.md)
 * [Previewing clips in the Source monitor](previewing-media-in-the-source-monitor.md)
+* [Importing media files](importing-media-files.md)
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Creating a sequence](creating-a-sequence.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
 * [Creating a subclip](creating-subclips.md)
-* [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
-* [Saving your project](saving-your-project.md)
 
 ## Editing in the Timeline panel
 
+* [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
 * [Adding a clip to your sequence](adding-clips-to-the-timeline.md)
 * [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
 * [Adding an image to your sequence](adding-an-image-to-your-sequence.md)
 * [Adding an audio file to your sequence](adding-an-audio-file-to-your-sequence.md)
 * [Arranging items in your sequence](arranging-clips-in-your-sequence.md)
+* [Trimming or extending an item in your sequence](trimming-a-clip.md)
 * [Deleting an item in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Muting timeline audio scrubbing](muting-audio-scrubbing.md)
-* [Trimming or extending an item in your sequence](trimming-a-clip.md)
 
 ## Working with audio
 
