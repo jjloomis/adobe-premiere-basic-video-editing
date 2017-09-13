@@ -2,7 +2,7 @@
 
 Before importing media files into Premiere, you'll need copy these files into your project folder.
 
-1. Connect to your class folder using a [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [Campus Computer Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-ccl.html) Mac.
+1. Connect to your class folder using a [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [Campus Computer Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-campus-computer-lab.html) Mac.
 2. Connect the video camera to the Mac using the USB cable. \(The USB miniport on the camera is under flap under hand flap.\)
 3. Turn the video camera on.
 4. On video camera, open the side panel.
