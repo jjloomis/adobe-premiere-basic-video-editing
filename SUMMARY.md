@@ -56,9 +56,6 @@
 * [Working with text using a JAMS text template](working-with-text-using-a-jams-text-template.md)
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
-* [Creating a title](adding-titles.md)
-* [Title style guide](title-style-guide.md)
-* [Duplicating a title](duplicating-and-modifying-a-title.md)
 * [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
 
 ## Exporting
