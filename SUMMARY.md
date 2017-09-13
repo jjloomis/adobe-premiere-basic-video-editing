@@ -18,6 +18,7 @@
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
 * [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
 * [Saving your project](saving-your-project.md)
+* [Downloading a JAMS text template to your project folder](downloading-a-jams-text-template-to-your-project-folder.md)
 
 ## Importing and logging clips
 
