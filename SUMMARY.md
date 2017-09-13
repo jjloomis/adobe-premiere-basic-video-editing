@@ -9,7 +9,7 @@
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Copying media files from a Canon video camera into your project folder](adding-media-from-a-video-camera.md)
-* [Copying media files from an iPad\/ iPhone into your project folder](adding-media-from-an-ios-device.md)
+* [Copying media files from an iPad&\#47; iPhone into your project folder](adding-media-from-an-ios-device.md)
 * [Copying media files from a video camera SD card into your project folder](copying-media-files-from-an-sd-card-into-your-project-folder.md)
 * [Copying media files from a still camera SD card into your project folder](copying-media-files-from-a-still-camera-to-your-project-folder.md)
 * [Copying media files from YouTube into your project folder](copying-media-files-from-youtube-to-your-project-folder.md)
