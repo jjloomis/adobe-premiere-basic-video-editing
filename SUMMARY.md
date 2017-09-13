@@ -14,11 +14,10 @@
 * [Copying media files from a still camera SD card into your project folder](copying-media-files-from-a-still-camera-to-your-project-folder.md)
 * [Copying media files from YouTube into your project folder](copying-media-files-from-youtube-to-your-project-folder.md)
 * [Copying WAV files from a Zoom H2n to your project folder](adding-wav-files-from-a-zoom.md)
+* [Downloading a JAMS text template to your project folder](downloading-a-jams-text-template-to-your-project-folder.md)
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
 * [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
-* [Saving your project](saving-your-project.md)
-* [Downloading a JAMS text template to your project folder](downloading-a-jams-text-template-to-your-project-folder.md)
 
 ## Importing and logging clips
 
