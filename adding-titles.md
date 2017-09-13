@@ -13,5 +13,5 @@ When creating a title, it's a good idea to clone the title multiple times (creat
 7. When you’re finished creating your title, close the Title window. You will see a title added to your Project window \(it will probably be named “Title 01.”\)
 8. To add your title to your project, click and drag the title still from the Project window to your Timeline. The title should be in the topmost video track.
 9. Adjust the duration of the title just as you would a video clip \(click and drag beginning or end of title still in the Timeline.\)
-10. To add a cross dissolve to the beginning and end of the title, select the title in the sequence. Then press `Command` `D` on the keyboard.
+10. To add a cross dissolve to the beginning and end of the title, select the title in the sequence. Then press **Command** **D** on the keyboard.
 

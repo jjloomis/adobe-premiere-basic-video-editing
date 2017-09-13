@@ -6,7 +6,7 @@ Before importing media files into Premiere, you'll need copy these files into yo
 2. Connect the video camera to the Mac using the USB cable. \(The USB miniport on the camera is under flap under hand flap.\)
 3. Turn the video camera on.
 4. On video camera, open the side panel.
-5. Press `Camera to Play` button.
+5. Press **Camera to Play** button.
 6. On the camera's touch screen, press Built-in Mem. \(Do not disconnect or turn off the camera without properly ejecting it from the Mac.\)
 7. On the Mac, iPhoto will automatically open. Close iPhoto.
 8. [Navigate to your class folder in a Finder window](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html). Then [open a second Finder window](https://jjloomis.gitbooks.io/file-and-folder-management/content/opening-multiple-finder-windows.html). Select Canon in the left pane of the Finder window.
