@@ -50,10 +50,10 @@
 
 ## Adding text and transitions
 
-* [Downloading a JAMS text template to your project folder](downloading-a-jams-text-template-to-your-project-folder.md)
-* [Opening a JAMS text template](opening-a-jams-text-template.md)
-* [Adding a JAMS text template to your sequence](adding-a-jams-text-template-to-your-sequence.md)
-* [Working with text using a JAMS text template](working-with-text-using-a-jams-text-template.md)
+* [Downloading the JAMS-News-Reporting template to your project folder](downloading-a-jams-text-template-to-your-project-folder.md)
+* [Opening the JAMS-News-Reporting text template](opening-a-jams-text-template.md)
+* [Adding the JAMS-News-Reporting template to your sequence](adding-a-jams-text-template-to-your-sequence.md)
+* [Working with text in the JAMS-News-Reporting template](working-with-text-using-a-jams-text-template.md)
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
