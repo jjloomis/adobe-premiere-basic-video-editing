@@ -1,4 +1,4 @@
-# Working with text using a JAMS Text Template
+# Working with text in the JAMS-News-Reporting template
 
 ## Editing text
 

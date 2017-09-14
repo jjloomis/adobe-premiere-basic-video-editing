@@ -1,4 +1,4 @@
-# Opening a JAMS text template
+# Opening the JAMS-News-Reporting template
 
 1. If you haven't already done so, [download a JAMS Text Template](/downloading-a-jams-text-template-to-your-project-folder.md) to your project folder.
 2. In the Workspaces bar, click **Graphics**. The Essential Graphics panel will open on the right.
