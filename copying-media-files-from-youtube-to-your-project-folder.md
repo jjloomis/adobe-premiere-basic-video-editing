@@ -1,4 +1,4 @@
-# Copying media files from YouTube into your project folder
+# Downloading media files from YouTube to your project folder
 
 1. Connect to your class folder using a JAMS Lab or CCL Mac.
 2. Go to [YouTube](https://www.youtube.com/) and find the video you want to add to your project. Copy the URL.
