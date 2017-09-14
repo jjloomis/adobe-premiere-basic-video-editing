@@ -17,6 +17,7 @@
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
 * [Opening an existing Premiere project](opening-an-existing-premiere-project.md)
+* [Downloading free music to your project folder](downloading-free-music-to-your-project-folder.md)
 
 ## Importing and logging clips
 
