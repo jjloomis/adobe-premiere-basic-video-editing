@@ -3,4 +3,6 @@
 
 .book-summary ul.summary li a, .book-summary ul.summary li span { white-space: normal; }
 
+.markdown-section a { text-decoration: underline;}
+
 img { display: block; margin-left: auto; margin-right: auto }
