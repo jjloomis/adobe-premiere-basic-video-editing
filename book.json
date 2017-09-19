@@ -2,5 +2,10 @@
     "plugins": [
         "image-captions",
         "page-footer"
-    ]
+    ],
+    "pluginsConfig": {
+      "layout": {
+        "footerPath" : "layouts/footer.html"
+      }
+    }
 }
