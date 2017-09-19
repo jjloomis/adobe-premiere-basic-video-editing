@@ -1,11 +1,5 @@
 {
     "plugins": [
-        "image-captions",
-        "page-footer"
-    ],
-    "pluginsConfig": {
-      "layout": {
-        "footerPath" : "layouts/footer.md"
-      }
-    }
+        "image-captions"
+    ]
 }
