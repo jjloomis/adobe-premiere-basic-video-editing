@@ -16,6 +16,10 @@ Compressed video file format. Often used for online delivery of videos.
 
 All-encompassing term for image, audio, and video files.
 
+## MTS
+
+Uncompressed video file format. 
+
 ## Project folder
 
 Folder that contains PRPROJ file and all media files associated with your project.
