@@ -51,7 +51,7 @@
 
 ## Adding text and transitions
 
-* [Downloading a JAMS Text Template to Your Project Folder](downloading-a-jams-text-template-to-your-project-folder.md)
+* [Downloading a JAMS Text Template to Your Project Folder](downloading-the-jams-text-template-to-your-project-folder.md)
 * [Opening a JAMS Text Template](opening-the-jams-social-media-video-text-template.md)
 * [Adding a JAMS Text Template to Your Sequence](adding-the-jams-social-media-video-text-template-to-your-sequence.md)
 * [Working with Text in a JAMS Text Template](working-with-text-in-the-text-template.md)
