@@ -52,7 +52,7 @@
 ## Adding text and transitions
 
 * [Downloading a JAMS Text Template to Your Project Folder](downloading-a-jams-text-template-to-your-project-folder.md)
-* [Opening a JAMS Text Template](working-with-text-and-transitions/opening-the-jams-social-media-video-text-template.md)
+* [Opening a JAMS Text Template](opening-the-jams-social-media-video-text-template.md)
 * [Adding a JAMS Text Template to Your Sequence](working-with-text-and-transitions/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
 * [Working with Text in a JAMS Text Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
 * [Adding the Media Milwaukee End Screen to Your Sequence](setting-up-your-project/adding-the-media-milwaukee-end-screen-to-your-sequence.md)
