@@ -55,7 +55,7 @@
 * [Opening a JAMS Text Template](opening-the-jams-social-media-video-text-template.md)
 * [Adding a JAMS Text Template to Your Sequence](adding-the-jams-social-media-video-text-template-to-your-sequence.md)
 * [Working with Text in a JAMS Text Template](working-with-text-in-the-text-template.md)
-* [Adding the Media Milwaukee End Screen to Your Sequence](setting-up-your-project/adding-the-media-milwaukee-end-screen-to-your-sequence.md)
+* [Adding the Media Milwaukee End Screen to Your Sequence](adding-the-media-milwaukee-end-screen-to-your-sequence.md)
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
