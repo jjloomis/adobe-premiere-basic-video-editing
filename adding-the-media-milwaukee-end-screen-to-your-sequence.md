@@ -1,6 +1,6 @@
 # Adding the Media Milwaukee End Screen to Your Sequence
 
-**Note**: Use Chrome as your browser when downloading files. Safari can [cause unexpected behavior](/troubleshooting/computer-is-trying-to-open-jams-text-template-in-photoshop.md) to occur when used to download files.
+**Note**: Use Chrome as your browser when downloading files. Safari can cause unexpected behavior to occur when used to download files.
 
 ## Downloading the Media Milwaukee End Screen
 
@@ -14,16 +14,10 @@
 2. Navigate to your project folder and the select the Media-Milwaukee-End-Screen.png.
 3. Click **Import**. 
 
-## Adding the Media Milwaukee End Screen to your sequence 
+## Adding the Media Milwaukee End Screen to your sequence
 
 1. Select Media-Milwaukee-End-Screen in the Project panel.
 2. Click and drag Media-Milwaukee-End-Screen to the end of your sequence.
-
-
-
-
-
-
 
 
 
