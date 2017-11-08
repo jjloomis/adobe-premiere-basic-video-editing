@@ -50,10 +50,11 @@
 
 ## Adding text and transitions
 
-* [Downloading the JAMS-News-Reporting template to your project folder](downloading-a-jams-text-template-to-your-project-folder.md)
-* [Opening the JAMS-News-Reporting text template](opening-a-jams-text-template.md)
-* [Adding the JAMS-News-Reporting template to your sequence](adding-a-jams-text-template-to-your-sequence.md)
-* [Working with text in the JAMS-News-Reporting template](working-with-text-using-a-jams-text-template.md)
+* [Downloading a JAMS Text Template to Your Project Folder](setting-up-your-project/downloading-the-jams-text-template-to-your-project-folder.md)
+* [Opening a JAMS Text Template](working-with-text-and-transitions/opening-the-jams-social-media-video-text-template.md)
+* [Adding a JAMS Text Template to Your Sequence](working-with-text-and-transitions/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
+* [Working with Text in a JAMS Text Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
+* [Adding the Media Milwaukee End Screen to Your Sequence](setting-up-your-project/adding-the-media-milwaukee-end-screen-to-your-sequence.md)
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
 * [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
