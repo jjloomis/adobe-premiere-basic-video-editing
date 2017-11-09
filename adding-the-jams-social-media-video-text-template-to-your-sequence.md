@@ -6,7 +6,7 @@
 
 ## JAMS Text Templates
 
-* JAMS-Social-Media-Video
+* JAMS-News-Reporting.mogrt
 * JAMS-Black-Text-Black-Background
 
 
