@@ -1,4 +1,4 @@
-# Working with Text in the JAMS-Social-Media-Video Template
+# Working with Text in a JAMS Text Template
 
 ## Editing text
 
