@@ -58,7 +58,6 @@
 * [Adding the Media Milwaukee End Screen to Your Sequence](adding-the-media-milwaukee-end-screen-to-your-sequence.md)
 * [Adding a cross disolve](adding-a-cross-disolve.md)
 * [Adding a dip to black transition](adding-a-dip-to-black-transition.md)
-* [Creating a black background screen with white text over it](creating-a-black-background-screen-with-white-text-over-it.md)
 
 ## Exporting
 
