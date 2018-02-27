@@ -22,7 +22,7 @@ You’ll export an MP4 file as your finished product. You can upload this MP4 fi
 5. In the Preset drop-down list, select **YouTube 1080p HD**.  
 6. To specify the name and location of your MP4, click the link text next to Output Name. A Save As dialog box will appear. In the Name field, rename your video. Note: Do not click **Save** at this point.
 7. In the Save As dialog box Where field, [navigate to and select your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html). Click **Save**. **Note**: Do not change the File Format in the Save As dialog box.
-8. In the Video tab, scroll to Bitrate Settings. In the Bitrate Encoding drop-down list, choose **VBR, 2 pass**.
+8. In the Video tab, scroll to Bitrate Settings. In the Bitrate Encoding drop-down list, choose **VBR, 2 pass**. **Note**: At this point the Preset drop-down list will display **Custom**. This is normal.
 9. Click **Export**.
 
 
