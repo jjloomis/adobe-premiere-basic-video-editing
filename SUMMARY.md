@@ -24,9 +24,9 @@
 * [Previewing clips in the Source monitor](previewing-media-in-the-source-monitor.md)
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Creating a sequence](creating-a-sequence.md)
+* [Creating a script](creating-a-script.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
 * [Creating a subclip](creating-subclips.md)
-* [Creating a script](creating-a-script.md)
 
 ## Editing in the Timeline panel
 
