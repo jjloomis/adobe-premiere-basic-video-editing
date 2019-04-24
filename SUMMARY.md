@@ -42,6 +42,7 @@
 * [Deleting an item in your sequence](deleting-clips-in-your-sequence.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Muting timeline audio scrubbing](muting-audio-scrubbing.md)
+* [Building a story in your sequence](building-a-story-in-your-sequence.md)
 
 ## Working with audio
 
