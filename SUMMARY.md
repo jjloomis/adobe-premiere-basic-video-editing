@@ -27,9 +27,8 @@
 * [Logging your video](logging-your-video.md)
 * [Writing a script](writing-a-script.md)
 * [Creating a script](creating-a-script.md)
-* [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
-* [Creating a subclip](creating-subclips.md)
 * [Recording narration](recording-narration.md)
+* [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
 
 ## Editing in the Timeline panel
 
