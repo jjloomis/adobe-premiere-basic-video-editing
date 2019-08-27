@@ -5,7 +5,7 @@
 
    * **Note**: To navigate to media files from a Canon video camera, you'll need to do the following:
 
-     * Go into your renamed AVCHD folder \(see Copying media files from a Canon video camera if you haven't renamed this folder.\)
+     * Go into your renamed AVCHD folder \(see [Copying media files from a Canon video camera](/adding-media-from-a-video-camera.md) if you haven't renamed this folder.\)
 
      * In your renamed AVCHD folder, you'll see two folders \(BDMV and Canon.\) Control-click the BDMV folder. In the fly-out menu, select **Show Package Contents**.
 
