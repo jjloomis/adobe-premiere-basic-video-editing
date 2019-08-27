@@ -13,7 +13,7 @@
 
 3. To preview a media file using Finder, single-click the file to select it. Then press the spacebar \(on keyboard\) to play it.
 
-4. After previewing the media file, close the Finder media player. Then rename the media file following [JAMS file and folder naming conventions](https://jjloomis.gitbooks.io/file-and-folder-management/content/file-and-folder-naming-conventions.html). 
+4. After previewing the media file, close the Finder media player. Then rename the media file following [JAMS file and folder naming conventions](https://jjloomis.gitbooks.io/file-and-folder-management/content/file-and-folder-naming-conventions.html). Repeat this process as necessary. 
 
 
 
