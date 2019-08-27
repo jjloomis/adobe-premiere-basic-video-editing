@@ -15,9 +15,9 @@
 * [Copying WAV files from a Zoom H2n to your project folder](adding-wav-files-from-a-zoom.md)
 * [Downloading media files from YouTube to your project folder](copying-media-files-from-youtube-to-your-project-folder.md)
 * [Downloading free music to your project folder](downloading-free-music-to-your-project-folder.md)
+* [Previewing and renaming clips in Finder](previewing-and-renaming-clips-in-finder.md)
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
-* [Previewing and renaming clips in Finder](previewing-and-renaming-clips-in-finder.md)
 
 ## Importing and logging clips
 
