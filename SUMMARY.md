@@ -17,6 +17,7 @@
 * [Downloading free music to your project folder](downloading-free-music-to-your-project-folder.md)
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
+* [Previewing and renaming clips in Finder](previewing-and-renaming-clips-in-finder.md)
 
 ## Importing and logging clips
 
