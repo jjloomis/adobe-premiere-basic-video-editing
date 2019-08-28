@@ -29,6 +29,7 @@
 * [Writing a script](writing-a-script.md)
 * [Recording narration](recording-narration.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
+* [Creating proxy files](creating-proxy-files.md)
 
 ## Editing in the Timeline panel
 
