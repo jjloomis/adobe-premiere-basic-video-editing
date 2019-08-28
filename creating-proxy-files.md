@@ -10,9 +10,6 @@ Proxy files are compressed versions of your project's uncompressed media files. 
 2. In the Save As box, navigate to and select your project folder.
 3. Click **Save**. The JAMS-Proxy-File-Settings.epr file will download to your project folder.
 
-
-
-
 ## Creating proxy files
 
 1. 
