@@ -12,6 +12,15 @@ Proxy files are compressed versions of your project's uncompressed media files. 
 
 ## Creating proxy files
 
-1. 
+1. In Premiere, go to and select the Project pane (lower right.) Note: When selected, the Project pane will appear surrounded by a blue line. 
+2. Press Command-A (on keyboard) to select all of the files in the Project pane. 
+3. Control-click one of the selected files in the Project pane. In the fly-out menu, select Proxy and then choose Create Proxies. A Create Proxies box will appear. 
+4. In the Create Proxies box, click Add Ingest Preset. 
+5. Navigate to your project folder and select JAMS-Proxy-File-Settings.epr. Click Open. 
+6. In the Create Proxies box, click OK. Adobe Media Encoder will open and create the proxy files. **Note**: This process will probably take a fair amount of time to complete.  
+
+## Caffeinating your Mac
+
+To avoid 
 
 
