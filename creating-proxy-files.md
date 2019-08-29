@@ -21,13 +21,15 @@ Proxy files are compressed versions of your project's uncompressed media files. 
 
 ## Caffeinating your Mac
 
-To prevent your Mac from logging you out (and disrupting the proxy file creation process), you can caffeinate the display. 
+To prevent your Mac from logging you out (and disrupting the proxy file creation process), you can caffeinate the screen. 
 
 1. Click the Desktop to enter Finder mode. Then go to Go on the menu bar. Select Utilities.
 2. In the Utilities window, select Terminal. A terminal window will appear.  
-3. Enter the following in the terminal window: `caffeinate -d`
+3. Enter the following text in the terminal window: `caffeinate -d`
 4. Press Return (on keyboard.) If the terminal prompt moves to a new line, your Mac is caffeinated. 
 5. To stop caffeinating your Mac, bring up the terminal window again and press **Control-C** (on keyboard.)
+
+## 
  
 
 
