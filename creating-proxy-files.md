@@ -32,7 +32,7 @@ To prevent your Mac from logging you out (and disrupting the proxy file creation
 ## Toggling proxy files
 
 1. In the Program pane (upper right), click the Button Editor button (plus sign button in lower left corner of Program pane.) The Button Editor panel will appear. 
-2. Click and drag the Toggle Proxies button into the Program pane's toolbar (bottom of Program pane.) Press OK in Button Editor panel when finished. The Toggle Proxies button will appear in the Program pane's toolbar. Note: You will need to do this every time you work at a new computer. 
+2. Click and drag the Toggle Proxies button into the Program pane's toolbar (bottom of Program pane.) Press OK when finished. The Toggle Proxies button will appear in the Program pane's toolbar. Note: You will need to do this every time you use a new computer. 
 3. Click the Toggle Proxies button. The Toggle Proxies button will appear blue. Your project's Timeline is now referencing the proxy files in your project folder. 
 
  
