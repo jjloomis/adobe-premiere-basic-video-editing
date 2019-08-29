@@ -29,7 +29,9 @@ To prevent your Mac from logging you out (and disrupting the proxy file creation
 4. Press Return (on keyboard.) The terminal prompt will move to a new line. Your Mac is now caffeinated. 
 5. To stop caffeinating your Mac, bring up the terminal window again and press **Control-C** (on keyboard.)
 
-## Toggling proxy files
+## Using proxy files
+
+When you activate the Toggle Proxies button, the Timeline will reference your project's proxy files during the editing process. 
 
 1. In the Program pane (upper right), click the Button Editor button (plus sign button in lower left corner of Program pane.) The Button Editor panel will appear. 
 2. Click and drag the Toggle Proxies button into the Program pane's toolbar (bottom of Program pane.) Click OK when finished. The Toggle Proxies button will appear in the Program pane's toolbar. Note: You will need to do this every time you use a new computer. 
