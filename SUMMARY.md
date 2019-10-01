@@ -15,21 +15,25 @@
 * [Copying WAV files from a Zoom H2n to your project folder](adding-wav-files-from-a-zoom.md)
 * [Downloading media files from YouTube to your project folder](copying-media-files-from-youtube-to-your-project-folder.md)
 * [Downloading free music to your project folder](downloading-free-music-to-your-project-folder.md)
+* [Previewing and renaming clips in Finder](previewing-and-renaming-clips-in-finder.md)
 * [Opening Premiere](opening-premiere.md)
 * [Creating a Premiere project](creating-a-premiere-project-file.md)
 
 ## Importing and logging clips
 
 * [Importing media files](importing-media-files.md)
+* [Creating and working with proxy files](creating-proxy-files.md)
 * [Previewing clips in the Source monitor](previewing-media-in-the-source-monitor.md)
 * [Renaming clips in the Project panel](renaming-clips-in-the-project-panel.md)
 * [Creating a sequence](creating-a-sequence.md)
-* [Creating a script](creating-a-script.md)
+* [Logging your video](logging-your-video.md)
+* [Writing a script](writing-a-script.md)
+* [Recording narration](recording-narration.md)
 * [Adding In and Out points to a clip](adding-in-and-out-points-to-clips.md)
-* [Creating a subclip](creating-subclips.md)
 
 ## Editing in the Timeline panel
 
+* [Building a story in your sequence](building-a-story-in-your-sequence.md)
 * [Viewing your project in the Program monitor](viewing-your-project-in-the-program-monitor.md)
 * [Adding a clip to your sequence](adding-clips-to-the-timeline.md)
 * [Adding a subclip to your sequence](adding-a-subclip-to-your-sequence.md)
