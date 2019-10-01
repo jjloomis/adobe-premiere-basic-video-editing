@@ -39,5 +39,3 @@ When you activate the Toggle Proxies button, the Timeline will reference your pr
 
 ![](/assets/adding-toggle-proxies-button.png)
 
-
-
