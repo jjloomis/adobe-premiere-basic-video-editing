@@ -51,7 +51,7 @@
 * [Centering audio channels](centering-audio-channels.md)
 * [Adjusting the audio level of an individual clip](adjusting-the-audio-level-of-a-clip.md)
 * [Adjusting the audio level of all clips in a track](adjusting-audio-level-of-all-clips-in-a-track.md)
-* [Changing the Duration of a Dissolve or Audio Fade](changing-the-duration-of-a-dissolve-or-audio-fade.md)
+* [Changing the duration of a dissolve or audio fade](changing-the-duration-of-a-dissolve-or-audio-fade.md)
 * [Automating clip volume with keyframes](automating-clip-volume-with-keyframes.md)
 
 ## Adding text and transitions
