@@ -1,4 +1,4 @@
-# Adobe Premiere CC 2019: Basic Video Editing
+# Adobe Premiere Pro 2020 \| Lab Edition \(macOS\)
 
 # About
 
