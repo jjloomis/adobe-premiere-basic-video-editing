@@ -5,5 +5,3 @@ This is actually a feature \(not a bug\) that lets you focus on a particular pan
 * Go to **Window** on the menu bar. Select **Restore Frame Size**.
 * Press the **~** key \(on your keyboard.\)
 
-
-

@@ -4,5 +4,3 @@ If your Premiere panels \(Source, Program, Project, etc.\) are in weird places, 
 
 * In the Workspaces bar \(top\) click **Editing**, **Effects**, or **Graphics**. \(These are the Workspaces most often used in JAMS courses.\)    
 
-
-
