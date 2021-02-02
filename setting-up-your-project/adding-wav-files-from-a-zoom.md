@@ -8,5 +8,5 @@
 6. On the Mac, double click the H2N\_SD drive to open it.
 7. Double-click the Stereo folder.
 8. In the Stereo folder, double click FOLDER01. All of your audio files will appear in this folder. By default, audio files will have the following name format: ZOOM000X.WAV. Note: The date and time stamps for the audio files will not be correct.
-9. Select all of the WAV files in FOLDER01. Press **Command** + **A** \(on keyboard\) to select everything in the folder. Click and drag all of the WAV files into your project folder.
+9. Select all of the WAV files in FOLDER01. Press **Command** **A** \(on keyboard\) to select everything in the folder. Click and drag all of the WAV files into your project folder.
 
