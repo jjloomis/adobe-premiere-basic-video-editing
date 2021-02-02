@@ -8,6 +8,7 @@
 
 ## Setting up your project
 
+* [Connecting your project folder SD card](setting-up-your-project/connecting-your-project-folder-sd-card.md)
 * [Connecting to your class folder](setting-up-your-project/connecting-to-your-class-folder.md)
 * [Creating a project folder](setting-up-your-project/creating-a-project-folder.md)
 * [Copying media files from a Canon video camera into your project folder](setting-up-your-project/adding-media-from-a-video-camera.md)
