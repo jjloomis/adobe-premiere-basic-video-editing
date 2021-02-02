@@ -1,6 +1,6 @@
 # Backing up your project folder
 
-Be sure to backup your project folder on a regular basis. That way, if anything happens to your project folder SD card, you'll have a backup version in your class folder. 
+Be sure to backup your project folder on a regular basis. If anything happens to your project folder SD card, you'll have a backup version in your class folder. 
 
 1. Go the [JAMS Tech Resources for Students](http://uwm.edu/journalism-advertising-media-studies/student-resources/tech-resources/) page. 
 2. Click the **Click here to connect to your class folder in a CCL** link \(upper-right.\)
