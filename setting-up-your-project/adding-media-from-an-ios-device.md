@@ -1,6 +1,6 @@
 # Copying media files from an iPad&\#47; iPhone into your project folder
 
-1. Connect to your class folder using JAMS Lab or CCL Mac.
+1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the back of a Mac.
 2. Using the iPad/ iPhone USB cable, connect your iPad/ iPhone to the back of the Mac.
 3. If you use a passcode to protect your iPad/ iPhone, you will need to enter it on the device.
 4. On your iPad/ iPhone, you will be prompted with a **Trust This Computer?** dialog box. Tap **Trust**.
