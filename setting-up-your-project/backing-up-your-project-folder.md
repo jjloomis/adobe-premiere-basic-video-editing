@@ -12,5 +12,7 @@ Be sure to backup your project folder on a regular basis. If anything happens to
 8. Click and drag your project folder from your **project folder SD** card into your **class folder**. **Important**: Make sure you click and drag the project from your project folder SD card into your class folder.
 9. If you are prompted with a message that asks if you would like to **Replace** or **Merge** the folder, you can select **Merge** \(the merge process takes less time to complete.\) 
 
+![Backing up your project folder.](../.gitbook/assets/backing-up-your-project-folder.png)
+
 
 
