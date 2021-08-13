@@ -25,7 +25,6 @@
 ## Importing and logging clips
 
 * [Importing media files](importing-and-logging-clips/importing-media-files.md)
-* [Creating and working with proxy files](importing-and-logging-clips/creating-proxy-files.md)
 * [Previewing clips in the Source monitor](importing-and-logging-clips/previewing-media-in-the-source-monitor.md)
 * [Renaming clips in the Project panel](importing-and-logging-clips/renaming-clips-in-the-project-panel.md)
 * [Creating a sequence](importing-and-logging-clips/creating-a-sequence.md)
