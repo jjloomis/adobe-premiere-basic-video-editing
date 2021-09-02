@@ -2,10 +2,6 @@
 
 * [Introduction](README.md)
 
-## Introduction
-
-* [Introduction](introduction/readme.md)
-
 ## Setting up your project
 
 * [Connecting your project folder SD card](setting-up-your-project/connecting-your-project-folder-sd-card.md)
