@@ -4,7 +4,7 @@ After you’ve carefully logged your video, you’re ready to write the script. 
 
 ## Introduction
 
-On a Word doc, write the anchor introduction first. This is a sentence or two that a news anchor would read to introduce your story on television OR that would appear on a Media Milwaukee web page to set up your story. Example: Hundreds of UW-Milwaukee students filled the Union ballroom for the spring career fair. Eduardo Lopez reports.
+On a Word doc, write the anchor introduction first. This is a sentence or two that a news anchor would read to introduce your story on television OR that would appear on a Media Milwaukee web page to set up your story. Example: Hundreds of UW-Milwaukee students filled the Union ballroom for the spring career fair. Eduardo Lopez reports. 
 
 ## Package script
 
