@@ -9,3 +9,5 @@ Never rename, move or delete the media files in your project folder. Your PRPROJ
 3. Control-click in the project folder SD card **Finder** window. In the fly-out menu, select **New Folder**.
 4. Give this folder a new name. Follow [file and folder naming conventions](https://jjloomis.gitbooks.io/file-and-folder-management/content/file-and-folder-naming-conventions.html).
 
+![Project folder in project folder SD card.](../.gitbook/assets/creating-a-project-folder.png)
+

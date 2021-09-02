@@ -9,3 +9,5 @@
 
 **Note**: By default, Scratch Discs are set to reside in the same location as your PRPROJ file. Scratch Disc locations should not be changed.
 
+![Creating a new Premiere project.](../.gitbook/assets/creating-a-premiere-project.png)
+

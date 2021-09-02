@@ -5,5 +5,5 @@
 3. To adjust the level of an audio track, click and drag the track's fader in the Audio Track Mixer. \(Note: audio levels should generally be between -12 and -6 dB.\) Adjusting the track's fader will change the audio levels of all clips in the track.
 4. To exit the Audio Clip Mixer, go to **Window** on the menu bar. Select **Source Monitor.**
 
-![](../.gitbook/assets/audio-track-mixer.png)
+![Adjusting audio with Audio Track Mixer.](../.gitbook/assets/adjusting-all-level-of-audio-in-track.png)
 

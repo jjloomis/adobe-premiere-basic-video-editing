@@ -4,3 +4,5 @@
 2. Select the clip in your sequence and press **Delete** \(on keyboard\) to remove it from your sequence. The clip will disappear but the sequence will remain in the Timeline panel.
 3. Your sequence will have the same name as the clip used to create it. To rename your sequence, select it in the Project panel and give it a new name. Follow [JAMS file and folder naming conventions](https://jjloomis.gitbook.io/file-and-folder-management/file-and-folder-naming-conventions).
 
+![Click and drag a clip into the Timeline panel to create a sequence.](../.gitbook/assets/creating-a-sequence.png)
+

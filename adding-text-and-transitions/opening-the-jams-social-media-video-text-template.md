@@ -10,5 +10,3 @@
 * JAMS-News-Reporting.mogrt
 * JAMS-White-Text-Black-Background.mogrt
 
-![](../.gitbook/assets/mogrt-file-import.png)
-

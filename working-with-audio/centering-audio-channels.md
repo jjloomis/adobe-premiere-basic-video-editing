@@ -5,7 +5,7 @@
 3. In the Modify Clip dialog box, select the Audio Channels tab.
 4. In the Media Source Channel panel, select the correct channels to center your audio. See images below for correct settings.
 
-![Handheld mic, lavalier mic, or mult box clip settings.](../.gitbook/assets/adobe-premiere-audio-left-only-fix.png)
+![Handheld mic, lavalier mic, or mult box clip settings.](../.gitbook/assets/centering-audio-channels-left.png)
 
-![Shotgun mic channel clip settings.](../.gitbook/assets/adobe-premiere-right-only-fix.png)
+![Shotgun mic channel clip settings.](../.gitbook/assets/centering-audio-channels-right.png)
 
