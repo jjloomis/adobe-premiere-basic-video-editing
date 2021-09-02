@@ -1,6 +1,6 @@
 # Introduction
 
-## Adobe Premiere Pro 2020 \| Lab Edition \(macOS\)
+## Adobe Premiere Pro 2021 Basics \| macOS Edition
 
 ## About
 
