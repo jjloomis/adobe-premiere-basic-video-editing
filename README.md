@@ -12,7 +12,7 @@ Written by Jeffrey John Loomis
 
 ### Other formats
 
-PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-premiere-basic-video-editing/details).
+PDF, MOBI, and EPUB versions of this GitBook are available for download [here](https://www.gitbook.com/book/jjloomis/adobe-premiere-basic-video-editing/details).
 
 ### GitHub
 
