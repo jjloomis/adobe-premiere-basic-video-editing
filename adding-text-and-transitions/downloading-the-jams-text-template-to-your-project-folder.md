@@ -14,3 +14,5 @@
 2. In the Save As box, navigate to and select your project folder.
 3. Click **Save**. The JAMS-White-Text-Black-Background.mogrt file will download to your project folder.
 
+![Installing a Motion Graphics template.](../.gitbook/assets/opening-a-text-template.png)
+
