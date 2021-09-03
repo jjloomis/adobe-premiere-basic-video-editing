@@ -25,3 +25,5 @@ You’ll export an MP4 file as your finished product. You can upload this MP4 fi
 8. In the Video tab, scroll to Bitrate Settings. In the Bitrate Encoding drop-down list, choose **VBR, 2 pass**. **Note**: At this point the Preset drop-down list will display **Custom**. This is normal.
 9. Click **Export**.
 
+![Exporting an MP4 file.](../.gitbook/assets/exporting-an-mp4-normal-quality.png)
+
