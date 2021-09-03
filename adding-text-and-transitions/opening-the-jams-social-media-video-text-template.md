@@ -10,3 +10,5 @@
 * JAMS-News-Reporting.mogrt
 * JAMS-White-Text-Black-Background.mogrt
 
+![Installing a Motion Graphics template.](../.gitbook/assets/opening-a-text-template.png)
+
