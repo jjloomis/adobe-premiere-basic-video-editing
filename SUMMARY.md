@@ -8,7 +8,7 @@
 * [Creating a project folder](setting-up-your-project/creating-a-project-folder.md)
 * [Backing up your project folder](setting-up-your-project/backing-up-your-project-folder.md)
 * [Copying media files from a Canon video camera into your project folder](setting-up-your-project/adding-media-from-a-video-camera.md)
-* [Copying media files from an iPad&\#47; iPhone into your project folder](setting-up-your-project/adding-media-from-an-ios-device.md)
+* [Copying media files from an iPad/ iPhone into your project folder](setting-up-your-project/adding-media-from-an-ios-device.md)
 * [Copying media files from a video camera SD card into your project folder](setting-up-your-project/copying-media-files-from-an-sd-card-into-your-project-folder.md)
 * [Copying media files from a still camera SD card into your project folder](setting-up-your-project/copying-media-files-from-a-still-camera-to-your-project-folder.md)
 * [Copying WAV files from a Zoom H2n to your project folder](setting-up-your-project/adding-wav-files-from-a-zoom.md)
@@ -76,4 +76,3 @@
 ## Glossary
 
 * [Glossary](glossary/glossary.md)
-

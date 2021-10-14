@@ -31,4 +31,3 @@ Adobe Premiere project file.
 ## Sequence
 
 Area within Timeline panel where you assemble your project.
-

@@ -8,4 +8,3 @@
 ![Handheld mic, lavalier mic, or mult box clip settings.](../.gitbook/assets/centering-audio-channels-left.png)
 
 ![Shotgun mic channel clip settings.](../.gitbook/assets/centering-audio-channels-right.png)
-

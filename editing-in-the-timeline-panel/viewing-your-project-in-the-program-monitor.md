@@ -5,4 +5,3 @@
 3. Press the **spacebar** on your keyboard. Your edited project will play in the Program monitor. 
 
 ![Viewing the project in the Program monitor.](../.gitbook/assets/viewing-project-in-program-monitor.png)
-

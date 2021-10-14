@@ -9,5 +9,3 @@
 
 ![Exporting a still image from the Program monitor.](../.gitbook/assets/exporting-still-image-from-sequence.png)
 
-
-
