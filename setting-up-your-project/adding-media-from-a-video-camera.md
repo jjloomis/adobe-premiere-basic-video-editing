@@ -13,6 +13,6 @@ Before importing media files into Premiere, you'll need copy these files into yo
 9. After **AVCHD** has copied into your project folder, eject the video camera. **Control-click** the video camera icon on the **Desktop** and choose **Eject**.
 10. Disconnect the camera from the Mac.
 11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://jjloomis.gitbook.io/file-and-folder-management/file-and-folder-naming-conventions).&#x20;
-12. Rename your MTS files.
+12. [Rename your MTS files](previewing-and-renaming-clips-in-finder.md).
 
 ![Copying AVCHD to project folder.](../.gitbook/assets/avchd-to-project-folder.png)
