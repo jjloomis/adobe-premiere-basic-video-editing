@@ -1,10 +1,10 @@
 # Introduction
 
-## Adobe Premiere Pro 2021 Basics | macOS Edition
+## Adobe Premiere Pro 2022 Basics | macOS Edition
 
 ## About
 
-Adobe Premiere Pro 2021 Basics | macOS Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu).
+Adobe Premiere Pro 2022 Basics | macOS Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu).
 
 ### Credits
 
