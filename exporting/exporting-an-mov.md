@@ -6,23 +6,24 @@ You’ll export an **MP4** file as your finished product. You can upload this **
 
 1. **Important**: Make sure the **Timeline** panel selected before exporting your video. To select the **Timeline** panel, click within **Timeline** panel. When selected, the **Timeline** panel will have a blue border around it.&#x20;
 2. Go to **File** on the menu bar. Select **Export**. From the fly-out menu, select **Media**. The **Export** dialog box will appear.
-3. In the **Source Range** drop-down list (lower-left), select **Entire Sequence**.
-4. In the **Format** drop-down list, select **H.264**. **Note**: Do not select **H.264 Blueray**.
-5. In the **Preset** drop-down list, select **YouTube 1080p HD**. &#x20;
-6. To specify the name and location of your **MP4**, click the link text next to **Output Name**. A **Save As** dialog box will appear. In the **Name** field, rename your video. **Note**: Do not click **Save** at this point.
-7. In the **Save As** dialog box **Where** field, [navigate to and select your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html). Click **Save**. **Note**: Do not change the **File Format** in the **Save As** dialog box.
+3. In the **File Name** field, enter a name for your exported file.
+4. In the **Location** area, click the **blue hyperlink** to the set the location for the exported file. If necessary, n[avigate to and select your project folder](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/navigating-folder-tree).
+5. In the **Preset** drop-down list, select **High Quality 1080p HD**.
+6. In the **Format** drop-down list, select **H.264**. **Note:** **Do not** select **H.264 Blueray**.
+7. In the **Range** drop-down list (beneath video preview), select **Entire Sequence**.
 8. Click **Export**.
 
 ## High quality MP4 (longer encode time)
 
 1. **Important**: Make sure the **Timeline** panel selected before exporting your video. To select the **Timeline** panel, click within **Timeline** panel. When selected, the **Timeline** panel will have a blue border around it.&#x20;
 2. Go to **File** on the menu bar. Select **Export**. From the fly-out menu, select **Media**. The **Export** dialog box will appear.
-3. In the **Source Range** drop-down list (lower-left), select **Entire Sequence**.
-4. In the **Format** drop-down list, select **H.264**. **Note**: Do not select **H.264 Blueray**.
-5. In the **Preset** drop-down list, select **YouTube 1080p HD**. &#x20;
-6. To specify the name and location of your **MP4**, click the link text next to **Output Name**. A **Save As** dialog box will appear. In the **Name** field, rename your video. **Note**: Do not click **Save** at this point.
-7. In the **Save As** dialog box **Where** field, [navigate to and select your project folder](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/navigating-folder-tree). Click **Save**. **Note**: Do not change the **File Format** in the **Save As** dialog box.
-8. In the **Video** tab, scroll to **Bitrate Settings**. In the **Bitrate Encoding** drop-down list, choose **VBR, 2 pass**. **Note**: At this point the **Preset** drop-down list will display **Custom**. This is normal.
-9. Click **Export**.
+3. In the **File Name** field, enter a name for your exported file.
+4. In the **Location** area, click the **blue hyperlink** to the set the location for the exported file. If necessary, n[avigate to and select your project folder](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/navigating-folder-tree).
+5. In the **Preset** drop-down list, select **High Quality 1080p HD**.
+6. In the **Format** drop-down list, select **H.264**. **Note:** **Do not** select **H.264 Blueray**.
+7. In the **Video** section, click the **chevron** icon to see all available **Video** settings.
+8. In the **Video** section, scroll down to **Bitrate Settings**. In the **Bitrate Encoding** field, choose **VBR, 2 pass**.
+9. In the **Range** drop-down list (beneath video preview), select **Entire Sequence**.
+10. Click **Export**.
 
 ![Exporting an MP4 file.](../.gitbook/assets/exporting-an-mp4-normal-quality.png)
