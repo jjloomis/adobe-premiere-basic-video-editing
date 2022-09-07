@@ -30,4 +30,4 @@ Before importing media files into Premiere, you'll need copy these files into yo
 11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/file-and-folder-naming-conventions).
 12. [Rename your MTS files](previewing-and-renaming-clips-in-finder.md).&#x20;
 
-![Copying AVCHD to project folder.](../.gitbook/assets/avchd-to-project-folder.png)
+![Copying media files from Canon Vixia XA10 video camera to project folder.](../.gitbook/assets/avchd-to-project-folder.png)
