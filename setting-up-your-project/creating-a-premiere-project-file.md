@@ -6,4 +6,4 @@
 4. Click in the **Project location** drop-down field. Select **Choose Location**. [Navigate to and select your project folder](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/navigating-folder-tree). Click **Choose**.&#x20;
 5. When finished, click **Create** (lower-right.)
 
-<figure><img src="../.gitbook/assets/creating-a-premiere-project.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/creating-a-premiere-project.png" alt=""><figcaption><p>Creating a new Premiere project.</p></figcaption></figure>
