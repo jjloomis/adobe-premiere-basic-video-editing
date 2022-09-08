@@ -2,10 +2,10 @@
 
 ## Editing text
 
-1. Click the **Workspaces** button (upper-right corner) and select **Captions and Graphics**. The **Essential Graphics** panel will open on the right.
-2. In your **sequence**, click a **JAMS Text Template** to select it. Position the **playhead** over this **JAMS Text Template.** This instance of the **JAMS Text Template** will appear in the **Program** panel.
-3. In the **Program** **panel toolbar**, select the **Type** tool (**T**).&#x20;
-4. Click the text. The **text box** will appear selected. Make changes to the text as you see fit. **Note**: The **text box** holds comfortably holds 160 characters (with some wiggle room.)&#x20;
+1. In the Workspaces bar, click **Graphics**. The Essential Graphics panel will open on the right.
+2. In your sequence, click a JAMS Text Template to select it. Position the playhead over this JAMS Text Template. This instance of the JAMS Text Template will appear in the Program panel.
+3. In the Program panel toolbar, select the **Type** tool (T). 
+4. Click the text. The text box will appear selected. Make changes to the text as you see fit. **Note**: The text box holds comfortably holds 160 characters (with some wiggle room.) 
 
 ## Formatting text
 
@@ -13,7 +13,7 @@
 
 1. In the Workspaces bar, click **Graphics**. The Essential Graphics panel will open on the right.
 2. In your sequence, click a JAMS Text Template to select it. Position the playhead over this JAMS Text Template. This instance of the JAMS Text Template will appear in the Program panel.
-3. In the Program panel toolbar, select the **Type** tool (T).&#x20;
-4. Click the text. The text box will appear selected.&#x20;
+3. In the Program panel toolbar, select the **Type** tool (T). 
+4. Click the text. The text box will appear selected. 
 5. In the Essential Graphics panel, click the **Edit** tab.
 6. To make changes to the formatting of the text, select the Type layer (top.) To make changes to the gray box, select the Gray Box layer (top.)
