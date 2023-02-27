@@ -2,6 +2,8 @@
 
 Before importing media files into Premiere, you'll need copy these files into your project folder. **Note**: Be sure to follow the instructions for the correct camera (**XA10** or **XA11**.)
 
+### Canon Vixia XA10
+
 1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the back of a Mac.
 2. Connect the video camera to the Mac using the USB cable. (The USB miniport on the camera is under flap under hand flap.)
 3. Turn the video camera on.
